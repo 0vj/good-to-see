@@ -19,6 +19,8 @@
 - [You Don't Know JS (Get Started-ch1)](https://vrgl.ir/apkHc)
 - [You Don't Know JS (Get Started-ch2 - part1)](https://vrgl.ir/BQXp8)
 - [You Don't Know JS (Get Started-ch2 - part2)](https://vrgl.ir/aVYWy)
+- [ان‌پی‌ام(NPM) در +1500 کلمه!](https://vrgl.ir/6TrsV)
+- [چندتا لایبرری جاوااسکریپت که احتمالا نیاز خواهید داشت! (1)](https://vrgl.ir/AyG5t)
 
 # پایتون
 

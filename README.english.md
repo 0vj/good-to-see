@@ -6,11 +6,12 @@
 
 - [JavaScript](#JavaScript)
 - [Node.js](#Nodejs)
-
+- [Django](#Django)
+- [Flask](#Flask)
 # Tools
 
 - [VsCode](#vscode)
-
+- [Vim](#Vim)
 # Security
 
 - [Security tips for APIs & MongoDB](https://dev.to/mohanarpit/security-tips-for-apis-mongodb-3elj)
@@ -31,6 +32,14 @@
 
 - [Everything you need to know about Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)
 
+# Django
+- [FreeCodeCamp Django crash course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+
+# Flask
+- [15 useful flask extensions](https://nickjanetakis.com/blog/15-useful-flask-extensions-and-libraries-that-i-use-in-every-project)
 # VsCode
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)
+# Vim
+- [interactive vim tutrial](https://www.openvim.com/)
+- [The Ultimate NeoVim Config for Colemak Users](https://github.com/theniceboy/nvim)

@@ -36,7 +36,7 @@
 
 # ویم
 
-- [اموزش ویم](https://www.aparat.com/v/Wp0LJ?playlist=15495)
+- [اموزش ویم](https://www.aparat.com/playlist/15495)
 - [چند کانفیگ خوب ویم](https://vrgl.ir/l91P7)
 
 # وی‌اس‌کد

@@ -8,10 +8,13 @@
 - [Node.js](#Nodejs)
 - [Django](#Django)
 - [Flask](#Flask)
+- [Vue.js](#Vue.js)
+
 # Tools
 
 - [VsCode](#vscode)
 - [Vim](#Vim)
+
 # Security
 
 - [Security tips for APIs & MongoDB](https://dev.to/mohanarpit/security-tips-for-apis-mongodb-3elj)
@@ -28,18 +31,35 @@
 
 - [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 
+- [Writing JavaScript code in Chrome using Snippets - Chrome Dev Tools](https://www.youtube.com/watch?v=4hfNpV_wnrI)
+
+- [Solid Principles in Javascript](https://dev.to/francescoxx/solid-principles-in-javascript-3pek)
+
+- [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/samanthaming/4-ways-to-convert-string-to-character-array-in-javascript-iij)
+
 # Nodejs
 
 - [Everything you need to know about Node.js](https://dev.to/jorge_rockr/everything-you-need-to-know-about-node-js-lnc)
 
+- [How YOU can learn Node.js I/O, files and paths](https://dev.to/itnext/how-you-can-learn-node-js-i-o-files-and-paths-2473)
+
 # Django
+
 - [FreeCodeCamp Django crash course](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
 # Flask
+
 - [15 useful flask extensions](https://nickjanetakis.com/blog/15-useful-flask-extensions-and-libraries-that-i-use-in-every-project)
+
+# Vue.js
+
+- [How to make a html search datalist for Vue](https://dev.to/developerbacon/how-to-make-a-html-search-datalist-for-vue-3ekg)
+
 # VsCode
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)
+
 # Vim
+
 - [interactive vim tutrial](https://www.openvim.com/)
 - [The Ultimate NeoVim Config for Colemak Users](https://github.com/theniceboy/nvim)

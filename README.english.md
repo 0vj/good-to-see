@@ -59,6 +59,16 @@
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)
 
+- [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
+
+- [14 VSCode Extensions That Will Improve Your Productivity](https://dev.to/x-team/14-vscode-extensions-that-will-improve-your-productivity-27ah)
+
+- [20 VS Code Extensions You'll Actually Use](https://dev.to/vip3rousmango/vs-code-extensions-youll-actually-use-46gp)
+
+- [Reducing VSCode Memory Consumption](https://dev.to/claudiodavi/reducing-vscode-memory-consumption-527k)
+
+- [50 VS Code themes for 2020](https://dev.to/thegeoffstevens/50-vs-code-themes-for-2020-45cc)
+
 # Vim
 
 - [interactive vim tutrial](https://www.openvim.com/)

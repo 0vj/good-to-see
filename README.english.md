@@ -55,6 +55,12 @@
 
 - [How to make a html search datalist for Vue](https://dev.to/developerbacon/how-to-make-a-html-search-datalist-for-vue-3ekg)
 
+- [Vue.js Components — Props Basics](https://medium.com/@hohanga/vue-js-components-props-basics-cc17270abb54)
+
+- [Vue JS General Knowledge (Part1)](https://medium.com/js-dojo/vue-js-general-knowledge-part1-df5b9eb22a65)
+
+- [Handling Events with Vue.js](https://medium.com/js-dojo/handling-events-with-vue-js-ea7693bb5c9d)
+
 # VsCode
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)

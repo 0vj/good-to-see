@@ -14,6 +14,7 @@
 
 - [VsCode](#vscode)
 - [Vim](#Vim)
+- [Prettier](#Prettier)
 
 # Security
 
@@ -36,6 +37,8 @@
 - [Solid Principles in Javascript](https://dev.to/francescoxx/solid-principles-in-javascript-3pek)
 
 - [4 Ways to Convert String to Character Array in JavaScript](https://dev.to/samanthaming/4-ways-to-convert-string-to-character-array-in-javascript-iij)
+
+- [How to use console in node.js](https://scotch.io/tutorials/how-to-use-console-in-nodejs)
 
 # Nodejs
 
@@ -61,6 +64,10 @@
 
 - [Handling Events with Vue.js](https://medium.com/js-dojo/handling-events-with-vue-js-ea7693bb5c9d)
 
+- [The Key to the Vue v-for](https://rimdev.io/the-v-for-key/)
+
+- [Create Vue Apps Visually with the Vue CLI User Interface Tool](https://scotch.io/tutorials/creating-vue-apps-with-the-vue-ui-tool)
+
 # VsCode
 
 - [6 VS Code Extensions That Give You Superpowers 🦸‍♂️](https://dev.to/_marcba/6-vs-code-extensions-that-give-you-superpowers-og1)
@@ -79,3 +86,7 @@
 
 - [interactive vim tutrial](https://www.openvim.com/)
 - [The Ultimate NeoVim Config for Colemak Users](https://github.com/theniceboy/nvim)
+
+# Prettier
+
+- [Code Formatting with Prettier in Visual Studio Code](https://scotch.io/tutorials/code-formatting-with-prettier-in-visual-studio-code)

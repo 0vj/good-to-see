@@ -55,7 +55,8 @@
 
 # وی‌اس‌کد
 
-[چند ترفند vscode](https://vrgl.ir/SXETQ)
+- [چند ترفند vscode](https://vrgl.ir/SXETQ)
+- [15 کلید میانبر VSCode](https://vrgl.ir/iZeGD)
 
 # توسعه‌فردی
 
